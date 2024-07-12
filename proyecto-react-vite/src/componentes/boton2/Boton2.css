@@ -1,0 +1,12 @@
+.boton2{
+    background-color: #a3c5e2;
+    color: white;
+    padding: 1rem 2rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    margin: 0.5rem;
+  }
+  
+  .boton2:hover{
+    background-color: rgba(148, 214, 168, 0.4);
+  }
