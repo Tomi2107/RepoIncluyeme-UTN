@@ -1,3 +1,8 @@
+Deploy de Movies en Github-Pages, en readme.md paso a paso
+https://tomi2107.github.io/movies-React/
+
+-----------------------------------------------
+
 Del mismo archivo react, que es php..java..py.. express..
 cambiando react por otros idiomas..
 -----------------------------------------
